@@ -4,7 +4,12 @@ print("-------")
 print("Solomon Lander")
 print("my is Solomon Lander")
 
-Firstname = input("Enter First Name >> ")
-secondname = input("Enter second Name >> ")
+# converting string to integer or whole number
+firstnumber = int(input("Enter First Name >> "))
+secondnumber = int(input("Enter second Name >> "))
 
-print(f"My name is {Firstname} {secondname}")
+# print(f"My name is {Firstname} {secondname}")
+
+total = firstnumber + secondnumber
+print(total)
+firstnumber = int(input("Hello World") )
