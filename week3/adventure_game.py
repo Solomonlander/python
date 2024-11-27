@@ -68,7 +68,3 @@ elif answer.upper() == 'FORWARD':
         print('Please leave the game now!')   
 else:
     print('That is too bad, Game over!')                                   
-
-
-
-
